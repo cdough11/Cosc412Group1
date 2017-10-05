@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1507243286348">
+  <folder name="images">
+    <file name="recaptchamodeaudio.png" crc="321387380" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchamodeaudiorollover.jpg" crc="3776011906" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="304562060" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchamodeimage.png" crc="484269603" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchamodeimagerollover.jpg" crc="4254074376" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchamodeimagemousedown.jpg" crc="3932701473" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptcharefresh.png" crc="47393460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptcharefreshrollover.jpg" crc="3836315890" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptcharefreshmousedown.jpg" crc="86458375" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchahelp.png" crc="131403934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchahelprollover.jpg" crc="514523227" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recaptchahelpmousedown.jpg" crc="3918933487" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="256315411" ref="index"/>
+    <file name="iefonts_index.css" crc="324419199" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="234386740" ref="index"/>
+    <file name="form_process.php" crc="281765392" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="recaptchalib.php" crc="385583985" ref="index"/>
+    <file name="form-u116.php" crc="473866750" ref="index"/>
+    <file name="form-u282.php" crc="459528837" ref="index"/>
+    <file name="form-u402.php" crc="4030378544" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4182393072" seo="true" mt="1507243118665" redirect="true"/>
+</manifest>
