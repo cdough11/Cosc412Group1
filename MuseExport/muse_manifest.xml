@@ -1,15 +1,16 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1508451842110">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1509062200055">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="42185448" ref="index"/>
+    <file name="site_global.css" crc="259376537"/>
+    <file name="index.css" crc="348568045" ref="index"/>
     <file name="iefonts_index.css" crc="192722937" ref="index"/>
+    <file name="admin-page.css" crc="4136318137" ref="admin-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="278381782" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page"/>
+    <file name="museutils.js" crc="17924269" ref="index:admin-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:admin-page"/>
+    <file name="museconfig.js" crc="278381782" ref="index:admin-page"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page"/>
     <file name="webpro.js" crc="416662029" ref="index"/>
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
@@ -20,10 +21,11 @@
     <file name="touchswipe.js" crc="432264157" ref="index"/>
     <file name="form-u282.php" crc="3837348996" ref="index"/>
     <file name="form-u402.php" crc="4010085131" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:admin-page"/>
     <file name="form-u1451.php" crc="4270037633" ref="index"/>
     <file name="form-u1782.php" crc="3805731763" ref="index"/>
     <file name="form-u1845.php" crc="3999137781" ref="index"/>
   </folder>
-  <file name="index.html" crc="397081559" seo="true" mt="1508451744126" redirect="true"/>
+  <file name="index.html" crc="363787315" seo="true" mt="1509062097603" redirect="true"/>
+  <file name="admin-page.html" crc="3960173781" seo="true" mt="1509062097639" redirect="true"/>
 </manifest>
