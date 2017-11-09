@@ -1,0 +1,417 @@
+29 Oct 2017 16:16:37 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2017 16:16:37 GMT with name C:\Users\tsuba\Downloads\EclipseCompiler.txt
+29 Oct 2017 16:28:06 GMT: diagnostics = javax.tools.DiagnosticCollector@95f6cc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7bc06e
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:28:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8d57b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:28:06 GMT: Compiler call returned
+29 Oct 2017 16:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2486d
+29 Oct 2017 16:28:06 GMT:  Kind = ERROR
+29 Oct 2017 16:28:06 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 4 ColNo = 35 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+29 Oct 2017 16:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76117e
+29 Oct 2017 16:28:06 GMT:  Kind = ERROR
+29 Oct 2017 16:28:06 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 20 Msg = 'Syntax error on token "(", ; expected'
+29 Oct 2017 16:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7baa3d
+29 Oct 2017 16:28:06 GMT:  Kind = ERROR
+29 Oct 2017 16:28:06 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 28 Msg = 'Syntax error on token ",", ; expected'
+29 Oct 2017 16:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e66b58
+29 Oct 2017 16:28:06 GMT:  Kind = ERROR
+29 Oct 2017 16:28:06 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 35 Msg = 'Syntax error on token ")", ; expected'
+29 Oct 2017 16:28:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1a83bd5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@512b36
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:28:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e3a151' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:28:23 GMT: Compiler call returned
+29 Oct 2017 16:28:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148831f
+29 Oct 2017 16:28:23 GMT:  Kind = ERROR
+29 Oct 2017 16:28:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 20 Msg = 'Syntax error on token "(", ; expected'
+29 Oct 2017 16:28:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1be7a21
+29 Oct 2017 16:28:23 GMT:  Kind = ERROR
+29 Oct 2017 16:28:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 28 Msg = 'Syntax error on token ",", ; expected'
+29 Oct 2017 16:28:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c220a
+29 Oct 2017 16:28:23 GMT:  Kind = ERROR
+29 Oct 2017 16:28:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 35 Msg = 'Syntax error on token ")", ; expected'
+29 Oct 2017 16:29:11 GMT: diagnostics = javax.tools.DiagnosticCollector@c10c86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d8e90
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:29:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1edbe62' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:29:11 GMT: Compiler call returned
+29 Oct 2017 16:29:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@172e6ab
+29 Oct 2017 16:29:11 GMT:  Kind = ERROR
+29 Oct 2017 16:29:11 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 20 Msg = 'Syntax error on token "(", ; expected'
+29 Oct 2017 16:29:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a21104
+29 Oct 2017 16:29:11 GMT:  Kind = ERROR
+29 Oct 2017 16:29:11 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 28 Msg = 'Syntax error on token ",", ; expected'
+29 Oct 2017 16:29:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e3e05
+29 Oct 2017 16:29:11 GMT:  Kind = ERROR
+29 Oct 2017 16:29:11 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 35 Msg = 'Syntax error on token ")", ; expected'
+29 Oct 2017 16:29:39 GMT: diagnostics = javax.tools.DiagnosticCollector@bf0a5e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cf9dba
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:29:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3a1b7f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:29:39 GMT: Compiler call returned
+29 Oct 2017 16:29:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d9ed6
+29 Oct 2017 16:29:39 GMT:  Kind = ERROR
+29 Oct 2017 16:29:39 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 20 Msg = 'Syntax error on token "(", ; expected'
+29 Oct 2017 16:29:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e0202c
+29 Oct 2017 16:29:39 GMT:  Kind = ERROR
+29 Oct 2017 16:29:39 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 28 Msg = 'Syntax error on token ",", ; expected'
+29 Oct 2017 16:29:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10aa925
+29 Oct 2017 16:29:39 GMT:  Kind = ERROR
+29 Oct 2017 16:29:39 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 35 Msg = 'Syntax error on token ")", ; expected'
+29 Oct 2017 16:30:52 GMT: diagnostics = javax.tools.DiagnosticCollector@920ae7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1221819
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:30:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@428d3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:30:52 GMT: Compiler call returned
+29 Oct 2017 16:30:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@243380
+29 Oct 2017 16:30:52 GMT:  Kind = ERROR
+29 Oct 2017 16:30:52 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 13 Msg = 'Syntax error, insert ";" to complete Statement'
+29 Oct 2017 16:30:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1de5fa2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1524ea6
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:30:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b3fe40' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:30:57 GMT: Compiler call returned
+29 Oct 2017 16:30:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e918f2
+29 Oct 2017 16:30:57 GMT:  Kind = ERROR
+29 Oct 2017 16:30:57 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 5 ColNo = 5 Msg = 'Cannot make a static reference to the non-static method foo(int[], int) from the type InterviewExercise'
+29 Oct 2017 16:31:06 GMT: diagnostics = javax.tools.DiagnosticCollector@f3887a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10eab89
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:31:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@de7e9f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:31:06 GMT: Compiler call returned
+29 Oct 2017 16:31:43 GMT: diagnostics = javax.tools.DiagnosticCollector@104f78d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fc76a0
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:31:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14a1322' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:31:43 GMT: Compiler call returned
+29 Oct 2017 16:31:59 GMT: diagnostics = javax.tools.DiagnosticCollector@cd356
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17fa4d6
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:31:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a8fef8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:31:59 GMT: Compiler call returned
+29 Oct 2017 16:32:11 GMT: diagnostics = javax.tools.DiagnosticCollector@edaa5e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b8145c
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:32:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fd8591' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:32:11 GMT: Compiler call returned
+29 Oct 2017 16:32:29 GMT: diagnostics = javax.tools.DiagnosticCollector@4f4fb8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bfd97c
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:32:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a59b12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:32:30 GMT: Compiler call returned
+29 Oct 2017 16:40:42 GMT: diagnostics = javax.tools.DiagnosticCollector@1631196
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1366d1e
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:40:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e578e7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:40:42 GMT: Compiler call returned
+29 Oct 2017 16:40:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c79e8
+29 Oct 2017 16:40:42 GMT:  Kind = ERROR
+29 Oct 2017 16:40:42 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Type mismatch: cannot convert from java.util.Scanner to java.lang.String'
+29 Oct 2017 16:41:10 GMT: diagnostics = javax.tools.DiagnosticCollector@14af6d5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17a63f1
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:41:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ef0a2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:41:10 GMT: Compiler call returned
+29 Oct 2017 16:41:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1445eee
+29 Oct 2017 16:41:10 GMT:  Kind = ERROR
+29 Oct 2017 16:41:10 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Unhandled exception type java.io.FileNotFoundException'
+29 Oct 2017 16:41:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d89978
+29 Oct 2017 16:41:10 GMT:  Kind = WARNING
+29 Oct 2017 16:41:10 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:41:30 GMT: diagnostics = javax.tools.DiagnosticCollector@170d12b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a43b95
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:41:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@70b842' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:41:30 GMT: Compiler call returned
+29 Oct 2017 16:41:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d351bf
+29 Oct 2017 16:41:30 GMT:  Kind = WARNING
+29 Oct 2017 16:41:30 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:41:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49dd45
+29 Oct 2017 16:41:30 GMT:  Kind = WARNING
+29 Oct 2017 16:41:30 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 11 Msg = 'The value of the local variable sentence is not used'
+29 Oct 2017 16:41:50 GMT: diagnostics = javax.tools.DiagnosticCollector@1efd14b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6c27b0
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:41:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@22a5ce' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:41:50 GMT: Compiler call returned
+29 Oct 2017 16:41:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bbc2e2
+29 Oct 2017 16:41:50 GMT:  Kind = WARNING
+29 Oct 2017 16:41:50 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:44:37 GMT: diagnostics = javax.tools.DiagnosticCollector@df0891
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f799df
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:44:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14c0c30' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:44:37 GMT: Compiler call returned
+29 Oct 2017 16:44:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c6d58
+29 Oct 2017 16:44:37 GMT:  Kind = WARNING
+29 Oct 2017 16:44:37 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:44:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ebda48
+29 Oct 2017 16:44:37 GMT:  Kind = WARNING
+29 Oct 2017 16:44:37 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 10 ColNo = 12 Msg = 'The value of the local variable words is not used'
+29 Oct 2017 16:47:58 GMT: diagnostics = javax.tools.DiagnosticCollector@28d144
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@110fb50
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:47:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e89dd5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:47:58 GMT: Compiler call returned
+29 Oct 2017 16:47:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61bd46
+29 Oct 2017 16:47:58 GMT:  Kind = ERROR
+29 Oct 2017 16:47:58 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+29 Oct 2017 16:47:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fa832
+29 Oct 2017 16:47:58 GMT:  Kind = ERROR
+29 Oct 2017 16:47:58 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 16 ColNo = 5 Msg = 'Void methods cannot return a value'
+29 Oct 2017 16:48:13 GMT: diagnostics = javax.tools.DiagnosticCollector@6ddcb8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a4b0bc
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:48:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@933fe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:48:13 GMT: Compiler call returned
+29 Oct 2017 16:48:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a66d8c
+29 Oct 2017 16:48:13 GMT:  Kind = ERROR
+29 Oct 2017 16:48:13 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+29 Oct 2017 16:48:19 GMT: diagnostics = javax.tools.DiagnosticCollector@885b37
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e1d581
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:48:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e9e80c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:48:19 GMT: Compiler call returned
+29 Oct 2017 16:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9b3cb1
+29 Oct 2017 16:48:19 GMT:  Kind = WARNING
+29 Oct 2017 16:48:19 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:48:41 GMT: diagnostics = javax.tools.DiagnosticCollector@17fb630
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f92344
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:48:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@796682' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:48:41 GMT: Compiler call returned
+29 Oct 2017 16:48:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a7a67
+29 Oct 2017 16:48:41 GMT:  Kind = WARNING
+29 Oct 2017 16:48:41 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:54:03 GMT: diagnostics = javax.tools.DiagnosticCollector@1446d58
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bd1792
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:54:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10546c5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:54:03 GMT: Compiler call returned
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc54cd
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 14 Msg = 'Syntax error on token "println", invalid AnnotationName'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b6094f
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 37 Msg = 'Syntax error, insert ")" to complete MemberValue'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d13f25
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 21 Msg = 'Syntax error on tokens, delete these tokens'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1090496
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "SimpleName" to complete QualifiedName'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1412806
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@90a510
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bb9fb0
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ";" to complete MethodDeclaration'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8d0365
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "}" to complete ClassBody'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@841cea
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ")" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@195864f
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ";" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20cd52
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 38 Msg = 'Return type for the method is missing'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ea7cd8
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 11 ColNo = 17 Msg = 'array cannot be resolved to a variable'
+29 Oct 2017 16:54:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@955423
+29 Oct 2017 16:54:03 GMT:  Kind = ERROR
+29 Oct 2017 16:54:03 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 17 ColNo = 13 Msg = 'array cannot be resolved to a variable'
+29 Oct 2017 16:54:17 GMT: diagnostics = javax.tools.DiagnosticCollector@19689d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18ffb8c
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:54:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17c7bd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:54:17 GMT: Compiler call returned
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6582e4
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 14 Msg = 'Syntax error on token "println", invalid AnnotationName'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b8fe5e
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 37 Msg = 'Syntax error, insert ")" to complete MemberValue'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bc0af5
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 21 Msg = 'Syntax error on tokens, delete these tokens'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a3507e
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "SimpleName" to complete QualifiedName'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a18c8c
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fdca68
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@958340
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ";" to complete MethodDeclaration'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca138c
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "}" to complete ClassBody'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@162515
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ")" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1551d35
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ";" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f6109c
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 38 Msg = 'Return type for the method is missing'
+29 Oct 2017 16:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f319d
+29 Oct 2017 16:54:17 GMT:  Kind = ERROR
+29 Oct 2017 16:54:17 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 17 ColNo = 13 Msg = 'array cannot be resolved to a variable'
+29 Oct 2017 16:54:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1f7ec10
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17a6d0c
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:54:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ea318' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:54:23 GMT: Compiler call returned
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12a84b6
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 14 Msg = 'Syntax error on token "println", invalid AnnotationName'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3c447
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 37 Msg = 'Syntax error, insert ")" to complete MemberValue'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f642ef
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 21 Msg = 'Syntax error on tokens, delete these tokens'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@564d4d
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "SimpleName" to complete QualifiedName'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c6e45
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c57d9
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19820b
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert ";" to complete MethodDeclaration'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@538de0
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 29 Msg = 'Syntax error, insert "}" to complete ClassBody'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f9da9
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ")" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f90e4
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 50 Msg = 'Syntax error, insert ";" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e417c
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 19 ColNo = 38 Msg = 'Return type for the method is missing'
+29 Oct 2017 16:54:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cfd56
+29 Oct 2017 16:54:23 GMT:  Kind = ERROR
+29 Oct 2017 16:54:23 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 17 ColNo = 6 Msg = 'Void methods cannot return a value'
+29 Oct 2017 16:54:53 GMT: diagnostics = javax.tools.DiagnosticCollector@7092fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e2ecff
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:54:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17aeb12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:54:53 GMT: Compiler call returned
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148b105
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 14 Msg = 'Syntax error on token "println", invalid AnnotationName'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1214cfd
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 37 Msg = 'Syntax error, insert ")" to complete MemberValue'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc1a
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 21 Msg = 'Syntax error on tokens, delete these tokens'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b03ef6
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 29 Msg = 'Syntax error, insert "SimpleName" to complete QualifiedName'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3661fc
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 29 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a18de3
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 29 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2e491
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 29 Msg = 'Syntax error, insert ";" to complete MethodDeclaration'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fd7
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 29 Msg = 'Syntax error, insert "}" to complete ClassBody'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f8832a
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 50 Msg = 'Syntax error, insert ")" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@99c4e3
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 50 Msg = 'Syntax error, insert ";" to complete ConstructorDeclaration'
+29 Oct 2017 16:54:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49774d
+29 Oct 2017 16:54:53 GMT:  Kind = ERROR
+29 Oct 2017 16:54:53 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 38 Msg = 'Return type for the method is missing'
+29 Oct 2017 16:55:05 GMT: diagnostics = javax.tools.DiagnosticCollector@143b3ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@817038
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:55:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@29cbfa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:55:05 GMT: Compiler call returned
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dbbe93
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 14 Msg = 'Syntax error on token "print", invalid AnnotationName'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f7af2b
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 35 Msg = 'Syntax error, insert ")" to complete MemberValue'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e317d
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 19 Msg = 'Syntax error on tokens, delete these tokens'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@83a4d4
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 27 Msg = 'Syntax error, insert "SimpleName" to complete QualifiedName'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@caabb1
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 27 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@195d874
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 27 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13084e2
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 27 Msg = 'Syntax error, insert ";" to complete MethodDeclaration'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@be3314
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 27 Msg = 'Syntax error, insert "}" to complete ClassBody'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12c94d1
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 48 Msg = 'Syntax error, insert ")" to complete ConstructorDeclaration'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55a938
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 48 Msg = 'Syntax error, insert ";" to complete ConstructorDeclaration'
+29 Oct 2017 16:55:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1773c44
+29 Oct 2017 16:55:05 GMT:  Kind = ERROR
+29 Oct 2017 16:55:05 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 18 ColNo = 36 Msg = 'Return type for the method is missing'
+29 Oct 2017 16:55:22 GMT: diagnostics = javax.tools.DiagnosticCollector@4cf021
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f4f10d
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:55:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@126975a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:55:22 GMT: Compiler call returned
+29 Oct 2017 16:55:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3faa00
+29 Oct 2017 16:55:22 GMT:  Kind = ERROR
+29 Oct 2017 16:55:22 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 17 ColNo = 36 Msg = 'The method sortStrArray(java.lang.String[]) is undefined for the type InterviewExercise'
+29 Oct 2017 16:55:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e07e3c
+29 Oct 2017 16:55:22 GMT:  Kind = WARNING
+29 Oct 2017 16:55:22 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:55:46 GMT: diagnostics = javax.tools.DiagnosticCollector@10a9c86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a6d7cf
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:55:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@191f120' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:55:46 GMT: Compiler call returned
+29 Oct 2017 16:55:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a25c9
+29 Oct 2017 16:55:46 GMT:  Kind = ERROR
+29 Oct 2017 16:55:46 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 17 ColNo = 36 Msg = 'The method sortByLength(java.lang.String) in the type InterviewExercise is not applicable for the arguments (java.lang.String[])'
+29 Oct 2017 16:55:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ea2f
+29 Oct 2017 16:55:46 GMT:  Kind = WARNING
+29 Oct 2017 16:55:46 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2017 16:56:00 GMT: diagnostics = javax.tools.DiagnosticCollector@9663f7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1093c1d
+fileObjects = [C:\Users\tsuba\InterviewExercise.java]
+29 Oct 2017 16:56:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@585d55' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tsuba;C:\Users\tsuba\Downloads\drjava-beta-20160913-225446.exe]
+29 Oct 2017 16:56:00 GMT: Compiler call returned
+29 Oct 2017 16:56:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d439c3
+29 Oct 2017 16:56:00 GMT:  Kind = WARNING
+29 Oct 2017 16:56:00 GMT: Name = C:\Users\tsuba\InterviewExercise.java LineNo = 6 ColNo = 22 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
