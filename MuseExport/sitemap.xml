@@ -13,7 +13,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://edufit1.com/edit-sponser.html</loc>
+    <loc>http://edufit1.com/edit-sponsor.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edufit1.com/student-interface.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://edufit1.com/images/pasted%20image%20200x200.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/assets/edufit-(2).muse</loc>
     <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
