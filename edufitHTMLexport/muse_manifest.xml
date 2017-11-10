@@ -1,0 +1,39 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit2.com" resolutions="1x" timestamp="1510273679257">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="student-interface.css" crc="4017280655" ref="student-interface"/>
+    <file name="index.css" crc="3822112308" ref="index"/>
+    <file name="iefonts_index.css" crc="469886060" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="blank-profile-picture-973460_640.png" crc="148379132" seo="true" mt="1508343207000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:student-interface"/>
+    <file name="museutils.js" crc="17924269" ref="index:student-interface"/>
+    <file name="whatinput.js" crc="86476730" ref="index:student-interface"/>
+    <file name="museconfig.js" crc="278381782" ref="index:student-interface"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:student-interface"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u116.php" crc="3767065712" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="form-u282.php" crc="511736912" ref="index"/>
+    <file name="form-u402.php" crc="4030378544" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:student-interface"/>
+  </folder>
+  <folder name="images">
+    <file name="blank-profile-picture-973460_640.jpg" crc="4047275514" seo="true" ref="student-interface">
+      <caption webpage="student-interface" alt=""/>
+    </file>
+    <file name="pasted image 200x200.png" crc="227770209" seo="true" ref="student-interface">
+      <caption webpage="student-interface" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="350540680" seo="true" mt="1510267175184" redirect="true"/>
+  <file name="student-interface.html" crc="3915638315" seo="true" mt="1510269066023" redirect="true"/>
+</manifest>
