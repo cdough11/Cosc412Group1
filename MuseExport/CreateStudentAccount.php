@@ -6,8 +6,10 @@ $dbname = "EduFit_Data_Source";
 
 $emailAddress = $_POST["emailAddress"];
 $sitePassword = $_POST["password"];
+$accessCode = $_POST["accessCode"];
+$studentID = $_POST["studentID"];
 
-$conn = new mysqli($servername, $username, $password, $dbname);
+$conn = new mysql($servername, $username, $password, $dbname);
 
 // Check connection
 if ($conn->connect_error) {
@@ -15,12 +17,12 @@ if ($conn->connect_error) {
 }
 
 // prepare and bind
-$stmt = $conn->prepare("SELECT COUNT(EmailAddress) FROM Student AS \"Count\" WHERE EmailAddress = ? AND Password = ?");
-$stmt->bind_param($emailAddress, $sitePassword);
+$stmt = $conn->prepare("INSERT INTO Student (EmailAddress, Password, AccessCode, StudentID) VALUES(?, ?, ?, ?);");
+$stmt->bind_param($emailAddress, $sitePassword, $accessCode, $studentID);
 
 $result = $conn->query($stmt);
 
-if($result->num_rows > 0){
+if($result->successful){
 	echo "Login successful";
 }
 else{
