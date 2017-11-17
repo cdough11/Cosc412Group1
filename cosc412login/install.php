@@ -3,7 +3,7 @@ All eode is under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
 -->
 
 <?php
-include ("config.php");
+include ("dbconfig.php");
 // connect to the mysql server
 $link = mysql_connect($db_host, $db_user, $db_pass)
 or die ("Could not connect to mysql because ".mysql_error());
