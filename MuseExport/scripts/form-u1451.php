@@ -31,26 +31,26 @@ $form = array(
 		'to' => 'cdough11@students.towson.edu'
 	),
 	'fields' => array(
-		'custom_U1460' => array(
+		'Email' => array(
 			'order' => 1,
-			'type' => 'string',
+			'type' => 'email',
 			'label' => 'Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.'
+				'required' => 'Field \'Email\' is required.',
+				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'Email' => array(
+		'custom_U3992' => array(
 			'order' => 2,
-			'type' => 'email',
+			'type' => 'string',
 			'label' => 'Password',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Password\' is required.',
-				'format' => 'Field \'Password\' has an invalid email.'
+				'required' => 'Field \'Password\' is required.'
 			)
 		),
-		'custom_U1755' => array(
+		'custom_U4009' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Access Code',
@@ -59,7 +59,7 @@ $form = array(
 				'required' => 'Field \'Access Code\' is required.'
 			)
 		),
-		'custom_U1767' => array(
+		'custom_U4025' => array(
 			'order' => 4,
 			'type' => 'string',
 			'label' => 'Student ID',

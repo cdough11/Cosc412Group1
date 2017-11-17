@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Home Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'parent-interface.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
@@ -31,23 +31,23 @@ $form = array(
 		'to' => 'cdifon1@students.towson.edu'
 	),
 	'fields' => array(
-		'custom_U295' => array(
+		'Email' => array(
 			'order' => 1,
-			'type' => 'string',
+			'type' => 'email',
 			'label' => 'Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.'
+				'required' => 'Field \'Email\' is required.',
+				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'Email' => array(
+		'custom_U4041' => array(
 			'order' => 2,
-			'type' => 'email',
+			'type' => 'string',
 			'label' => 'Password',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Password\' is required.',
-				'format' => 'Field \'Password\' has an invalid email.'
+				'required' => 'Field \'Password\' is required.'
 			)
 		)
 	)
