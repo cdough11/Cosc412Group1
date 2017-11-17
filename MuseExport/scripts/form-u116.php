@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Log in  Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => 'student-interface.html',
+	'success_redirect' => 'parent-interface.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
