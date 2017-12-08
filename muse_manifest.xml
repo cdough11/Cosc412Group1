@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edutfitnewwithlogin.com" resolutions="1x" timestamp="1512698535230">
+  <folder name="css">
+    <file name="site_global.css" crc="4132970783"/>
+    <file name="parent-interface.css" crc="3875894714" ref="parent-interface"/>
+    <file name="admin-page.css" crc="396726169" ref="admin-page"/>
+    <file name="trainer-search.css" crc="265441552" ref="trainer-search"/>
+    <file name="coachtrainer-interface.css" crc="4284197892" ref="coachtrainer-interface"/>
+    <file name="social-interface.css" crc="356177697" ref="social-interface"/>
+    <file name="index.css" crc="451059509" ref="index"/>
+    <file name="edit-sponsor.css" crc="4187773677" ref="edit-sponsor"/>
+    <file name="student-interface.css" crc="336581694" ref="student-interface"/>
+  </folder>
+  <folder name="assets">
+    <file name="edufit-(2).muse" crc="112665351" seo="true" mt="1512060911000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+    <file name="museutils.js" crc="17924269" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+    <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+    <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+    <file name="webpro.js" crc="416662029" ref="index:trainer-search"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:trainer-search"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:trainer-search"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:trainer-search"/>
+    <file name="require.js" crc="3861931657" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:social-interface"/>
+  </folder>
+  <folder name="images">
+    <file name="blank-profile-picture-973460_640.jpg" crc="4047275514" seo="true" ref="student-interface:parent-interface:coachtrainer-interface:social-interface">
+      <caption webpage="social-interface" alt=""/>
+      <caption webpage="student-interface" alt=""/>
+      <caption webpage="parent-interface" alt=""/>
+      <caption webpage="coachtrainer-interface" alt=""/>
+    </file>
+    <file name="pasted image 200x200.png" crc="227770209" seo="true" ref="student-interface">
+      <caption webpage="student-interface" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3931989330" seo="true" mt="1512698468546" redirect="true"/>
+  <file name="admin-page.html" crc="48605882" seo="true" mt="1510271612013" redirect="true"/>
+  <file name="edit-sponsor.html" crc="87171682" seo="true" mt="1510271612016" redirect="true"/>
+  <file name="student-interface.html" crc="4120904065" seo="true" mt="1510278993980" redirect="true"/>
+  <file name="parent-interface.html" crc="392769365" seo="true" mt="1510876952957" redirect="true"/>
+  <file name="coachtrainer-interface.html" crc="436680655" seo="true" mt="1512682028800" redirect="true"/>
+  <file name="trainer-search.html" crc="106297195" seo="true" mt="1510882608284" redirect="true"/>
+  <file name="social-interface.html" crc="4111553485" seo="true" mt="1512679666325" redirect="true"/>
+</manifest>
