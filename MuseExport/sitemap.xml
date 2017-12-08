@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://edufit1.com/index.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/edufit_logo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://edufit1.com/coachtrainer-interface.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <loc>http://edufit1.com/cardio-details.html</loc>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -29,7 +32,7 @@
   </url>
   <url>
     <loc>http://edufit1.com/student-interface.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +44,7 @@
   </url>
   <url>
     <loc>http://edufit1.com/parent-interface.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,56 +52,35 @@
     </image:image>
   </url>
   <url>
-    <loc>http://edufit1.com/untitled-9.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <loc>http://edufit1.com/coachtrainer-interface.html</loc>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://edufit1.com/images/style-layer%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-rounded%20rectangle%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-rounded%20rectangle%2012.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-rounded%20rectangle%2013.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-edu.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-fit.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-left.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-left2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-left3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-right.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-right2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://edufit1.com/images/style-right3.png</image:loc>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://edufit1.com/trainer-search.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://edufit1.com/endurance-details.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/leaderboard(coach).html</loc>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,16 +89,7 @@
   </url>
   <url>
     <loc>http://edufit1.com/balance-details.html</loc>
-    <lastmod>2017-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://edufit1.com/cardio-details.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +98,61 @@
   </url>
   <url>
     <loc>http://edufit1.com/leaderboard.html</loc>
-    <lastmod>2017-11-30</lastmod>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/social.html</loc>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/trainer-search(coach).html</loc>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/trainer-search(parent).html</loc>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/social(coach).html</loc>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/leaderboard(parent).html</loc>
+    <lastmod>2017-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://edufit1.com/images/blank-profile-picture-973460_640.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://edufit1.com/social(parent).html</loc>
+    <lastmod>2017-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

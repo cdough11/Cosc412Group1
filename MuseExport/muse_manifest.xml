@@ -1,105 +1,91 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1512094295921">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1512691409280">
   <folder name="assets">
     <file name="edufit-(2).muse" crc="110673511" seo="true" mt="1510275174000"/>
   </folder>
   <folder name="images">
-    <file name="blank-profile-picture-973460_640.jpg" crc="4005029133" seo="true" ref="student-interface:parent-interface:coachtrainer-interface:endurance-details:cardio-details:balance-details:leaderboard">
-      <caption webpage="student-interface" alt=""/>
-      <caption webpage="cardio-details" alt=""/>
-      <caption webpage="coachtrainer-interface" alt=""/>
-      <caption webpage="balance-details" alt=""/>
-      <caption webpage="parent-interface" alt=""/>
+    <file name="blank-profile-picture-973460_640.jpg" crc="4005029133" seo="true" ref="student-interface:parent-interface:coachtrainer-interface:endurance-details:cardio-details:balance-details:leaderboard:trainer-search:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)">
       <caption webpage="leaderboard" alt=""/>
+      <caption webpage="balance-details" alt=""/>
+      <caption webpage="trainer-search" alt=""/>
+      <caption webpage="trainer-search(parent)" alt=""/>
+      <caption webpage="leaderboard(parent)" alt=""/>
+      <caption webpage="trainer-search(coach)" alt=""/>
+      <caption webpage="coachtrainer-interface" alt=""/>
+      <caption webpage="parent-interface" alt=""/>
+      <caption webpage="student-interface" alt=""/>
+      <caption webpage="leaderboard(coach)" alt=""/>
+      <caption webpage="cardio-details" alt=""/>
+      <caption webpage="social(parent)" alt=""/>
       <caption webpage="endurance-details" alt=""/>
+      <caption webpage="social(coach)" alt=""/>
+      <caption webpage="social" alt=""/>
     </file>
     <file name="pasted image 200x200.png" crc="227770209" seo="true" ref="student-interface">
       <caption webpage="student-interface" alt=""/>
     </file>
-    <file name="style-layer 3.jpg" crc="3852288190" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-rounded rectangle 1.png" crc="3986667571" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-rounded rectangle 12.png" crc="240757613" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-rounded rectangle 13.png" crc="4277460568" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-edu.png" crc="3766547855" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-fit.png" crc="4160707153" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-left.png" crc="4123657498" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-left2.png" crc="4179200754" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-left3.png" crc="31375187" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-right.png" crc="170246346" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-right2.png" crc="502475990" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
-    </file>
-    <file name="style-right3.png" crc="3920279522" seo="true" ref="untitled-9">
-      <caption webpage="untitled-9" alt=""/>
+    <file name="edufit_logo.jpg" crc="3792533453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4132970783"/>
-    <file name="index.css" crc="4017676069" ref="index"/>
+    <file name="index.css" crc="4154973496" ref="index"/>
     <file name="iefonts_index.css" crc="3810940157" ref="index"/>
     <file name="admin-page.css" crc="4085428524" ref="admin-page"/>
     <file name="edit-sponsor.css" crc="184958810" ref="edit-sponsor"/>
-    <file name="student-interface.css" crc="4270277957" ref="student-interface"/>
-    <file name="parent-interface.css" crc="253849374" ref="parent-interface"/>
-    <file name="coachtrainer-interface.css" crc="14310396" ref="coachtrainer-interface"/>
-    <file name="trainer-search.css" crc="3793686763" ref="trainer-search"/>
-    <file name="balance-details.css" crc="235521191" ref="balance-details"/>
-    <file name="leaderboard.css" crc="3940599134" ref="leaderboard"/>
-    <file name="untitled-9.css" crc="4233066849" ref="untitled-9"/>
-    <file name="cardio-details.css" crc="136812001" ref="cardio-details"/>
-    <file name="endurance-details.css" crc="3920753522" ref="endurance-details"/>
+    <file name="student-interface.css" crc="50971631" ref="student-interface"/>
+    <file name="parent-interface.css" crc="48142487" ref="parent-interface"/>
+    <file name="coachtrainer-interface.css" crc="260147202" ref="coachtrainer-interface"/>
+    <file name="trainer-search.css" crc="4082565418" ref="trainer-search"/>
+    <file name="balance-details.css" crc="4207205767" ref="balance-details"/>
+    <file name="leaderboard.css" crc="385461090" ref="leaderboard"/>
+    <file name="cardio-details.css" crc="170510043" ref="cardio-details"/>
+    <file name="endurance-details.css" crc="4050232128" ref="endurance-details"/>
+    <file name="leaderboard_parent_.css" crc="377965000" ref="leaderboard(parent)"/>
+    <file name="trainer-search_parent_.css" crc="283479660" ref="trainer-search(parent)"/>
+    <file name="social.css" crc="3966554123" ref="social"/>
+    <file name="social_coach_.css" crc="3857848591" ref="social(coach)"/>
+    <file name="leaderboard_coach_.css" crc="496345202" ref="leaderboard(coach)"/>
+    <file name="trainer-search_coach_.css" crc="3764188961" ref="trainer-search(coach)"/>
+    <file name="social_parent_.css" crc="3912776050" ref="social(parent)"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
-    <file name="museutils.js" crc="17924269" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
-    <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
-    <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
-    <file name="webpro.js" crc="416662029" ref="index:trainer-search"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="museutils.js" crc="17924269" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="webpro.js" crc="416662029" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
     <file name="form_process.php" crc="257545537" ref="index"/>
     <file name="form-u116.php" crc="3967104775" ref="index"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index:trainer-search"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index:trainer-search"/>
-    <file name="touchswipe.js" crc="432264157" ref="index:trainer-search"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
     <file name="form-u282.php" crc="535098381" ref="index"/>
     <file name="form-u402.php" crc="3912851480" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:untitled-9:cardio-details:balance-details:leaderboard"/>
+    <file name="require.js" crc="3861931657" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
     <file name="form-u1451.php" crc="316838" ref="index"/>
     <file name="form-u1782.php" crc="305447342" ref="index"/>
     <file name="form-u1845.php" crc="4016765267" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="leaderboard"/>
   </folder>
-  <file name="index.html" crc="3777843233" seo="true" mt="1512092728391" redirect="true"/>
+  <file name="index.html" crc="3943759981" seo="true" mt="1512687815387" redirect="true"/>
   <file name="admin-page.html" crc="442623882" seo="true" mt="1510271612013" redirect="true"/>
   <file name="edit-sponsor.html" crc="4248161246" seo="true" mt="1510271612016" redirect="true"/>
-  <file name="student-interface.html" crc="4272813059" seo="true" mt="1512094221902" redirect="true"/>
-  <file name="parent-interface.html" crc="4081149838" seo="true" mt="1512094264681" redirect="true"/>
-  <file name="coachtrainer-interface.html" crc="300800375" seo="true" mt="1512094251434" redirect="true"/>
-  <file name="trainer-search.html" crc="4226883219" seo="true" mt="1510882608284" redirect="true"/>
-  <file name="endurance-details.html" crc="312475889" seo="true" mt="1512093424045" redirect="true"/>
-  <file name="untitled-9.html" crc="4091345273" seo="true" mt="1512089208510" redirect="true"/>
-  <file name="cardio-details.html" crc="496695326" seo="true" mt="1512093402449" redirect="true"/>
-  <file name="balance-details.html" crc="3873996558" seo="true" mt="1512092210019" redirect="true"/>
-  <file name="leaderboard.html" crc="289048230" seo="true" mt="1512093413769" redirect="true"/>
+  <file name="student-interface.html" crc="181259257" seo="true" mt="1512690212204" redirect="true"/>
+  <file name="parent-interface.html" crc="472763090" seo="true" mt="1512690259456" redirect="true"/>
+  <file name="coachtrainer-interface.html" crc="4215803591" seo="true" mt="1512690468745" redirect="true"/>
+  <file name="trainer-search.html" crc="4119620686" seo="true" mt="1512690678225" redirect="true"/>
+  <file name="endurance-details.html" crc="3985911857" seo="true" mt="1512690430304" redirect="true"/>
+  <file name="cardio-details.html" crc="371902981" seo="true" mt="1512690437730" redirect="true"/>
+  <file name="balance-details.html" crc="462842537" seo="true" mt="1512690447396" redirect="true"/>
+  <file name="leaderboard.html" crc="4078618676" seo="true" mt="1512690456047" redirect="true"/>
+  <file name="social.html" crc="411978290" seo="true" mt="1512690245616" redirect="true"/>
+  <file name="trainer-search(coach).html" crc="386528288" seo="true" mt="1512690275796" redirect="true"/>
+  <file name="leaderboard(coach).html" crc="4000755103" seo="true" mt="1512690283767" redirect="true"/>
+  <file name="social(coach).html" crc="3768843498" seo="true" mt="1512690362131" redirect="true"/>
+  <file name="trainer-search(parent).html" crc="328233332" seo="true" mt="1512690385339" redirect="true"/>
+  <file name="leaderboard(parent).html" crc="4026249362" seo="true" mt="1512690401965" redirect="true"/>
+  <file name="social(parent).html" crc="289116117" seo="true" mt="1512690411490" redirect="true"/>
 </manifest>

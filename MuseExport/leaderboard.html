@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "leaderboard.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "leaderboard.css"], "outOfDate":[]};
 </script>
   
   <title>Leaderboard</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4132970783"/>
-  <link rel="stylesheet" type="text/css" href="css/leaderboard.css?crc=3940599134" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/leaderboard.css?crc=385461090" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -27,41 +27,65 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <style>
-.u5944 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
+.u6509 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
 </style>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <style>
-.u5945 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
+.u6510 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
 </style>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <style>
-.u5946 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
+.u6511 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
+</style>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<style>
+.u8552 {color:#FFFFFF; font-size:50px;display: table-cell; width:67px;height:70px;vertical-align: middle;text-align:center;}
 </style>
 
  </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu5939"><!-- group -->
-    <div id="u5939"><!-- simple frame --></div>
-    <div class="grpelem" id="u5940"><!-- simple frame --></div>
-    <div class="grpelem" id="u5941"><!-- simple frame --></div>
-    <div class="gradient" id="u5942"><!-- simple frame --></div>
-    <div class="grpelem" id="u5943"><!-- simple frame --></div>
-    <div class="grpelem" id="u5947"><!-- content --></div>
-    <div class="clip_frame" id="u5948"><!-- image -->
-     <img class="block" id="u5948_img" src="images/blank-profile-picture-973460_640.jpg?crc=4005029133" alt="" width="75" height="75"/>
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="clearfix colelem" id="pu6505"><!-- group -->
+    <div class="clearfix grpelem" id="u6505"><!-- group -->
+     <div class="clearfix grpelem" id="u6508"><!-- group -->
+      <a class="nonblock nontext MuseLinkActive size_fixed grpelem" id="u6509" href="leaderboard.html"><!-- custom html -->
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+<div class="u6509"><i class="fa fa-trophy"></i></div>
+  	  </a>
+     </div>
+     <div class="clearfix grpelem" id="u6507"><!-- group -->
+      <a class="nonblock nontext size_fixed grpelem" id="u6510" href="social.html"><!-- custom html -->
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+<div class="u6510"><i class="fa fa-users"></i></div>
+  	  </a>
+     </div>
+     <div class="clearfix grpelem" id="u6506"><!-- group -->
+      <a class="nonblock nontext size_fixed grpelem" id="u6511" href="trainer-search.html"><!-- custom html -->
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+<div class="u6511"><i class="fa fa-heartbeat"></i></div>
+  	  </a>
+     </div>
     </div>
-    <div class="clearfix" id="u5950-4"><!-- content -->
+    <div class="grpelem" id="u6512"><!-- content --></div>
+    <div class="clip_frame grpelem" id="u6513"><!-- image -->
+     <img class="block" id="u6513_img" src="images/blank-profile-picture-973460_640.jpg?crc=4005029133" alt="" width="75" height="75"/>
+    </div>
+    <div class="clearfix grpelem" id="u6515-4"><!-- content -->
      <p>Name</p>
     </div>
-    <div class="clearfix" id="u5951-4"><!-- content -->
+    <div class="clearfix grpelem" id="u6516-4"><!-- content -->
      <p>Team</p>
     </div>
-    <div class="mse_pre_init" id="u5952"><!-- custom html -->
-     <style type="text/css">
+    <div class="clearfix grpelem" id="u6517-4"><!-- content -->
+     <p>Leaderboard</p>
+    </div>
+    <div class="gradient clearfix grpelem" id="u6518"><!-- group -->
+     <div class="grpelem" id="u6519"><!-- custom html -->
+      <style type="text/css">
 /*--------------------
  Body
  --------------------*/
@@ -71,21 +95,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 body {
   color: #fff;
   font-family: 'Open Sans', sans-serif;
+padding: 0px;
+	margin: 0px;
+	border: 0px;
 }
 /*--------------------
  Leaderboard
  --------------------*/
 .leaderboard {
-  position: fixed;
-top:50%;
-left:50%;
-  transform: translate(-50%, -50%);
-  height: 100%;
+
+ 
   width: 762px;
 
   border-radius: 10px;
 
-bottom:50%;
+
 
 }
 .leaderboard h1 {
@@ -96,7 +120,6 @@ bottom:50%;
 .leaderboard h1 svg {
   width: 25px;
   height: 26px;
-  position: fixed;
   top: 3px;
   margin-right: 6px;
   vertical-align: baseline;
@@ -253,27 +276,13 @@ bottom:50%;
       </symbol>
 
 </svg>
+     </div>
     </div>
-    <div class="clearfix" id="u5953-4"><!-- content -->
-     <p>Leaderboard</p>
-    </div>
-   </div>
-   <div class="clearfix grpelem" id="pu5944"><!-- group -->
-    <a class="nonblock nontext MuseLinkActive size_fixed" id="u5944" href="leaderboard.html"><!-- custom html -->
+    <div class="clearfix grpelem" id="u8551"><!-- group -->
+     <a class="nonblock nontext size_fixed grpelem" id="u8552" href="student-interface.html"><!-- custom html -->
 <!-- This Adobe Muse widget was created by the team at MuseFree.com -->
-<div class="u5944"><i class="fa fa-trophy"></i></div>
+<div class="u8552"><i class="fa fa-home"></i></div>
   	  </a>
-    <div class="size_fixed" id="u5945"><!-- custom html -->
-     
-<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
-<div class="u5945"><i class="fa fa-users"></i></div>
-  	  
-    </div>
-    <div class="size_fixed" id="u5946"><!-- custom html -->
-     
-<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
-<div class="u5946"><i class="fa fa-heartbeat"></i></div>
-  	  
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="669" data-content-above-spacer="704" data-content-below-spacer="97"></div>
@@ -296,13 +305,12 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u5952').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,55.95]},{"speed":[0,0],"in":[55.95,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
