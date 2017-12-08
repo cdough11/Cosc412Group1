@@ -8,13 +8,13 @@
 
 */
 
-$hostName = "";
+$hostName = "edufitdb.ccfkgwtrrucm.us-east-1.rds.amazonaws.com";
 
-$databaseName = "";  
+$databaseName = "EduFit_Data_Source";  
 
-$username = "";            
+$username = "cosc412group1";            
 
-$password = "";               
+$password = "Towson2017";               
 
 // Show an error and stop the script
 
