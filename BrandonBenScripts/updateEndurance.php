@@ -10,9 +10,13 @@ if (mysqli_connect_errno()) {
     exit();
 }
 // Update Endurance 
-$q1 = ;
+$q1 = "UPDATE Activites
+SET Endurance = (Endurance + 300)
+WHERE SID = '$id'";
 //Update Total
-$q2 = ;
+$q2 = "UPDATE Activites
+SET Total = (Cardio + Endurance + Flexibility)
+WHERE SID = '$id'";
 
 
 // prepare and bind
