@@ -4,7 +4,7 @@ $username = "cosc412group1";
 $password = "Towson2017";
 $dbname = "EduFit_Data_Source";
 
-$parentAccessCode = $_POST["parentAccessCode"];
+$parentAccessCode = $_POST["accessCode"];
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection

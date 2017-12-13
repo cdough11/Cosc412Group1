@@ -8,9 +8,9 @@
 
 */
 
-$hostName = "edufitdb.ccfkgwtrrucm.us-east-1.rds.amazonaws.com";
+$servername = "edufitdb.ccfkgwtrrucm.us-east-1.rds.amazonaws.com";
 
-$databaseName = "EduFit_Data_Source";  
+$dbname = "EduFit_Data_Source";  
 
 $username = "cosc412group1";            
 
