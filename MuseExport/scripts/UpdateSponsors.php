@@ -16,7 +16,7 @@ if (mysqli_connect_errno()) {
     exit();
 }
 
-$query = "INSERT INTO SPONSORS(schoolID, sponsor1, sponsor2, sponsor3) VALUES(" . $schoolID . ", '" . $sponsor1 . "', '" . $sponsor2 . "', '" . $sponsor3 . "') 
+$query = "INSERT INTO Sponsors(schoolID, sponsor1, sponsor2, sponsor3) VALUES(" . $schoolID . ", '" . $sponsor1 . "', '" . $sponsor2 . "', '" . $sponsor3 . "') 
 ON DUPLICATE KEY UPDATE sponsor1 = '" . $sponsor1 . "', sponsor2 = '" . $sponsor2 . "', sponsor3 = '" . $sponsor3 . "';";
 
 // prepare and bind
@@ -25,12 +25,14 @@ if($stmt = mysqli_prepare($conn, $query)){
 	if(!mysqli_execute($stmt)){
 		printf("Query failed: %s\n", mysqli_error);
 		echo "Update failed";
-	}	
-}
-
-$url = "https://edufit.000webhostapp.com/admin-page.html";
+		mysqli_close($conn);
+	}
+	else{
+		mysqli_close($conn);
+		$url = "https://edufit.000webhostapp.com/admin-page.html";
 		header("Location: " . $url);
 		die();
-
-mysqli_close($conn);
+	}	
+}
+else{mysqli_close($conn);}
 ?>
