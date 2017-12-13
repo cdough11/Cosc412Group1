@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1513203755311">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1513204078682">
   <folder name="assets">
     <file name="edufit-(2).muse" crc="110673511" seo="true" mt="1510275174000"/>
   </folder>
@@ -29,8 +29,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="531054894"/>
-    <file name="index.css" crc="4154973496" ref="index"/>
-    <file name="iefonts_index.css" crc="3810940157" ref="index"/>
+    <file name="index.css" crc="4275131631" ref="index"/>
+    <file name="iefonts_index.css" crc="39841921" ref="index"/>
     <file name="admin-page.css" crc="4085428524" ref="admin-page"/>
     <file name="edit-sponsor.css" crc="397014763" ref="edit-sponsor"/>
     <file name="student-interface.css" crc="4133882336" ref="student-interface"/>
@@ -71,7 +71,7 @@
     <file name="form-u1782.php" crc="305447342" ref="index"/>
     <file name="form-u1845.php" crc="4016765267" ref="index"/>
   </folder>
-  <file name="index.html" crc="282579263" seo="true" mt="1513202978707" redirect="true"/>
+  <file name="index.html" crc="3926612164" seo="true" mt="1513204022240" redirect="true"/>
   <file name="admin-page.html" crc="442623882" seo="true" mt="1510271612013" redirect="true"/>
   <file name="edit-sponsor.html" crc="498663008" seo="true" mt="1513203721292" redirect="true"/>
   <file name="student-interface.html" crc="187742064" seo="true" mt="1512695915510" redirect="true"/>
