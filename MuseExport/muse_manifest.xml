@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1512696211827">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1513179615267">
   <folder name="assets">
     <file name="edufit-(2).muse" crc="110673511" seo="true" mt="1510275174000"/>
   </folder>
@@ -28,7 +28,7 @@
     </file>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4132970783"/>
+    <file name="site_global.css" crc="531054894"/>
     <file name="index.css" crc="4154973496" ref="index"/>
     <file name="iefonts_index.css" crc="3810940157" ref="index"/>
     <file name="admin-page.css" crc="4085428524" ref="admin-page"/>
@@ -48,13 +48,14 @@
     <file name="leaderboard_coach_.css" crc="496345202" ref="leaderboard(coach)"/>
     <file name="trainer-search_coach_.css" crc="471688751" ref="trainer-search(coach)"/>
     <file name="social_parent_.css" crc="356953447" ref="social(parent)"/>
+    <file name="admin-login.css" crc="501881182" ref="admin-login"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
-    <file name="museutils.js" crc="17924269" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
-    <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
-    <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
+    <file name="museutils.js" crc="17924269" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
+    <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
+    <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
     <file name="webpro.js" crc="416662029" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
@@ -65,12 +66,12 @@
     <file name="touchswipe.js" crc="432264157" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
     <file name="form-u282.php" crc="535098381" ref="index"/>
     <file name="form-u402.php" crc="3912851480" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent)"/>
+    <file name="require.js" crc="3861931657" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
     <file name="form-u1451.php" crc="316838" ref="index"/>
     <file name="form-u1782.php" crc="305447342" ref="index"/>
     <file name="form-u1845.php" crc="4016765267" ref="index"/>
   </folder>
-  <file name="index.html" crc="3943759981" seo="true" mt="1512687815387" redirect="true"/>
+  <file name="index.html" crc="282579263" seo="true" mt="1513179552754" redirect="true"/>
   <file name="admin-page.html" crc="442623882" seo="true" mt="1510271612013" redirect="true"/>
   <file name="edit-sponsor.html" crc="4248161246" seo="true" mt="1510271612016" redirect="true"/>
   <file name="student-interface.html" crc="187742064" seo="true" mt="1512695915510" redirect="true"/>
@@ -88,4 +89,5 @@
   <file name="trainer-search(parent).html" crc="174247295" seo="true" mt="1512695847988" redirect="true"/>
   <file name="leaderboard(parent).html" crc="4105671929" seo="true" mt="1512695866802" redirect="true"/>
   <file name="social(parent).html" crc="433208582" seo="true" mt="1512695891042" redirect="true"/>
+  <file name="admin-login.html" crc="4124143091" seo="true" mt="1513179407035" redirect="true"/>
 </manifest>
