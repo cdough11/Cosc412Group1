@@ -28,7 +28,9 @@ if($stmt = mysqli_prepare($conn, $query)){
 	}	
 }
 
-
+$url = "https://edufit.000webhostapp.com/admin-page.html";
+		header("Location: " . $url);
+		die();
 
 mysqli_close($conn);
 ?>
