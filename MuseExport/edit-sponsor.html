@@ -11,13 +11,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "require.js", "edit-sponsor.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "edit-sponsor.css"], "outOfDate":[]};
 </script>
   
   <title>Edit Sponsor</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=531054894"/>
-  <link rel="stylesheet" type="text/css" href="css/edit-sponsor.css?crc=108037029" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/edit-sponsor.css?crc=397014763" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -45,46 +45,119 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="u2246-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
      <p>Sponsors:</p>
     </div>
-    <form class="form-grp clearfix colelem" id="widgetu9561" method="post" enctype="multipart/form-data" action="scripts/form-u9561.php"><!-- none box -->
-     <div class="clearfix grpelem" id="pwidgetu9613"><!-- column -->
-      <div class="fld-grp clearfix colelem" id="widgetu9613" data-required="true"><!-- none box -->
-       <div class="clearfix grpelem" id="pu9616-4"><!-- column -->
-        <label class="fld-label actAsDiv clearfix colelem" id="u9616-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" for="widgetu9613_input"><!-- content --><span class="actAsPara">Sponser1:</span></label>
-        <span class="fld-input NoWrap actAsDiv clearfix colelem" id="u9615-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u9615-3"><input class="wrapped-input" type="text" id="widgetu9613_input" name="custom_U9613" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu9613_prompt" for="widgetu9613_input"><span class="actAsPara">Enter Text</span></label></div></span>
-       </div>
-      </div>
-      <div class="fld-grp clearfix colelem" id="widgetu9625" data-required="true"><!-- none box -->
-       <div class="clearfix grpelem" id="pu9628-4"><!-- column -->
-        <label class="fld-label actAsDiv clearfix colelem" id="u9628-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" for="widgetu9625_input"><!-- content --><span class="actAsPara">Sponser2:</span></label>
-        <span class="fld-input NoWrap actAsDiv clearfix colelem" id="u9627-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u9627-3"><input class="wrapped-input" type="text" id="widgetu9625_input" name="custom_U9625" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu9625_prompt" for="widgetu9625_input"><span class="actAsPara">Enter Text</span></label></div></span>
-       </div>
-      </div>
-      <div class="fld-grp clearfix colelem" id="widgetu9637" data-required="true"><!-- none box -->
-       <div class="clearfix grpelem" id="pu9638-4"><!-- column -->
-        <label class="fld-label actAsDiv clearfix colelem" id="u9638-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" for="widgetu9637_input"><!-- content --><span class="actAsPara">Sponser3:</span></label>
-        <span class="fld-input NoWrap actAsDiv clearfix colelem" id="u9639-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u9639-3"><input class="wrapped-input" type="text" id="widgetu9637_input" name="custom_U9637" tabindex="3"/><label class="wrapped-input fld-prompt" id="widgetu9637_prompt" for="widgetu9637_input"><span class="actAsPara">Enter Text</span></label></div></span>
-       </div>
-      </div>
-      <button class="submit-btn NoWrap rounded-corners clearfix colelem" id="u9567-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" type="submit" value="Save" tabindex="4"><!-- content -->
-       <div style="margin-top:-12px;height:12px;">
-        <p>Save</p>
-       </div>
-      </button>
-      <div class="clearfix colelem" id="pu9576-4"><!-- group -->
-       <div class="clearfix grpelem" id="u9576-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-        <p>Submitting Form...</p>
-       </div>
-       <div class="clearfix grpelem" id="u9566-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-        <p>The server encountered an error.</p>
-       </div>
-       <div class="clearfix grpelem" id="u9577-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-        <p>Form received.</p>
-       </div>
-      </div>
-     </div>
+    <div class="colelem" id="u9790"><!-- custom html -->
+     <style type="text/css">
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+.container {
+  position: relative;
+  z-index: 1;
+  max-width: 300px;
+  margin: 0 auto;
+}
+.container:before, .container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.container .info {
+  margin: 50px auto;
+  text-align: center;
+}
+.container .info h1 {
+  margin: 0 0 15px;
+  padding: 0;
+  font-size: 36px;
+  font-weight: 300;
+  color: #1a1a1a;
+}
+.container .info span {
+  color: #4d4d4d;
+  font-size: 12px;
+}
+.container .info span a {
+  color: #000000;
+  text-decoration: none;
+}
+.container .info span .fa {
+  color: #EF3B3A;
+}
+body
+{
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+</style>
+
+<div class="login-page">
+  <div class="form">
+<form action="scripts/UpdateSponsors.php" method="post">
+    <form class="login-form">
+      <input type="text" name="schoolID" placeholder="School ID">
+      <input type="text" name="sponsor1" placeholder="Sponsor1">
+<input type="text" name="sponsor2" placeholder="Sponsor2">
+<input type="text" name="sponsor3" placeholder="Sponsor3">
+      <button>Submit</button>
     </form>
+</form>
+  </div>
+</div>
+    </div>
    </div>
-   <div class="verticalspacer" data-offset-top="477" data-content-above-spacer="477" data-content-below-spacer="118" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="914" data-content-above-spacer="914" data-content-below-spacer="119" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="browser_width grpelem" id="u2287-3-bw">
     <div class="clearfix" id="u2287-3" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
      <p>&nbsp;</p>
@@ -102,14 +175,13 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#widgetu9561', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu9561 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

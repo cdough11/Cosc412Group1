@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1513202269347">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="edufit1.com" resolutions="1x" timestamp="1513203755311">
   <folder name="assets">
     <file name="edufit-(2).muse" crc="110673511" seo="true" mt="1510275174000"/>
   </folder>
@@ -32,7 +32,7 @@
     <file name="index.css" crc="4154973496" ref="index"/>
     <file name="iefonts_index.css" crc="3810940157" ref="index"/>
     <file name="admin-page.css" crc="4085428524" ref="admin-page"/>
-    <file name="edit-sponsor.css" crc="108037029" ref="edit-sponsor"/>
+    <file name="edit-sponsor.css" crc="397014763" ref="edit-sponsor"/>
     <file name="student-interface.css" crc="4133882336" ref="student-interface"/>
     <file name="parent-interface.css" crc="195739715" ref="parent-interface"/>
     <file name="coachtrainer-interface.css" crc="260147202" ref="coachtrainer-interface"/>
@@ -56,10 +56,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
     <file name="museconfig.js" crc="278381782" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:admin-page:edit-sponsor:student-interface:parent-interface:coachtrainer-interface:trainer-search:endurance-details:cardio-details:balance-details:leaderboard:social:trainer-search(coach):leaderboard(coach):social(coach):trainer-search(parent):leaderboard(parent):social(parent):admin-login"/>
-    <file name="webpro.js" crc="416662029" ref="index:trainer-search:trainer-search(coach):trainer-search(parent):edit-sponsor"/>
-    <file name="form_check.php" crc="4110044762" ref="index:edit-sponsor"/>
-    <file name="form_throttle.php" crc="22190333" ref="index:edit-sponsor"/>
-    <file name="form_process.php" crc="257545537" ref="index:edit-sponsor"/>
+    <file name="webpro.js" crc="416662029" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
     <file name="form-u116.php" crc="3967104775" ref="index"/>
     <file name="musewpslideshow.js" crc="4034900702" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
     <file name="jquery.museoverlay.js" crc="528673841" ref="index:trainer-search:trainer-search(coach):trainer-search(parent)"/>
@@ -70,11 +70,10 @@
     <file name="form-u1451.php" crc="316838" ref="index"/>
     <file name="form-u1782.php" crc="305447342" ref="index"/>
     <file name="form-u1845.php" crc="4016765267" ref="index"/>
-    <file name="form-u9561.php" crc="4240924953" ref="edit-sponsor"/>
   </folder>
-  <file name="index.html" crc="282579263" seo="true" mt="1513179552754" redirect="true"/>
+  <file name="index.html" crc="282579263" seo="true" mt="1513202978707" redirect="true"/>
   <file name="admin-page.html" crc="442623882" seo="true" mt="1510271612013" redirect="true"/>
-  <file name="edit-sponsor.html" crc="3817046882" seo="true" mt="1513202185927" redirect="true"/>
+  <file name="edit-sponsor.html" crc="498663008" seo="true" mt="1513203721292" redirect="true"/>
   <file name="student-interface.html" crc="187742064" seo="true" mt="1512695915510" redirect="true"/>
   <file name="parent-interface.html" crc="3883788571" seo="true" mt="1512695480309" redirect="true"/>
   <file name="coachtrainer-interface.html" crc="4215803591" seo="true" mt="1512695170840" redirect="true"/>
