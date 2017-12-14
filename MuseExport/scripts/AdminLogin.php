@@ -27,7 +27,7 @@ if($stmt = mysqli_prepare($conn, $query)){
 	if($foundMatch == null)
 		$foundMatch = "NULL";
 	if($foundMatch){
-		$url = "https://edufit.000webhostapp.com/edit-sponsor.html";
+		$url = "https://edufit.000webhostapp.com/admin-page.html";
 		header("Location: " . $url);
 		die();
 	}
